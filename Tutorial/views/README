@@ -1,0 +1,5 @@
+# Vistas
+
+Aquí se incluyen las plantillas que generarán el código HTML necesario para el despliegue de las páginas.
+
+Se recomienda usar con Template Toolkit

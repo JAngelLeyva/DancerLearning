@@ -1,0 +1,6 @@
+# Scripts
+
+Un script de perl puede acceder a funcionalidades de la aplicación al usar la instrucción:
+
+    use Dancer ':script';
+

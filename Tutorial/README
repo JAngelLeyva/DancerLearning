@@ -1,0 +1,15 @@
+# Documentación
+
+```
+├── MANIFEST            
+├── MANIFEST.SKIP
+├── Makefile.PL
+├── README              Este documento
+├── bin                 Scripts
+├── config.yml          Configuración general
+├── environments        Entornos con configuración específica
+├── lib                 Código de la aplicación
+├── public              Recursos de acceso público
+├── t                   Archivos de prueba
+└── views               Diseño de páginas
+```
